@@ -7,6 +7,8 @@
 **/.firebase
 firebase.js
 
+config/
+
 ### Firebase Patch ###
 .runtimeconfig.json
 .firebase/
